@@ -67,3 +67,12 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+# Libros descargados (se descargan dinamicamente)
+data/books/
+
+# Resultados generados
+results/
+
+# DLLs copiadas al build
+*.dll
